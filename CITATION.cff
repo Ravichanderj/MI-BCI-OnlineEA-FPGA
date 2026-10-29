@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Calibration-free cross-subject motor-imagery BCI with online Euclidean alignment on a Zynq-7020 FPGA"
+authors:
+  - family-names: Janapati
+    given-names: Ravichander
+    affiliation: SR University
+license: MIT
+date-released: 2026-10-29

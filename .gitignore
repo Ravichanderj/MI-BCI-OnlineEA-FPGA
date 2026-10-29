@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+runs/
+cache/
+*.npz
+*.bin
+mne_data/
+hls/*_prj/
+hls/cosim_*/
+vivado/mi_bci_prj*/
+*.log
+*.jou
+.ipynb_checkpoints/
